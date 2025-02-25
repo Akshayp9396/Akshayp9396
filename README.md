@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay P</h1>
-<h3 align="center">Python Full Stack Developer | UI/UX Designer | Web Developer</h3>
+<h4 align="center">Python Full-Stack Developer | UI/UX Designer | Expertise in Angular, Django, Flask, SQL, and MongoDB | Hands-on Experience in Building Scalable Web Applications</h3>
 
-<h3 align="center">Expertise in Django, Flask, Angular, Python, UI/UX Design, SEO, Database Management, REST APIs, and Scalable Web Applications</h3>
+
 
 - 🚀 Passionate about developing scalable and impactful web applications.
 - 🎯 Currently working on **Job Portal, E-Commerce, Event Management & Online Learning Platform**.
