@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akshay P</h1>
-<h4 align="center">Python Full-Stack Developer | UI/UX Designer | Expertise in Angular, Django, Flask, SQL, and MongoDB | Hands-on Experience in Building Scalable Web Applications</h3>
+<h3 align="center">Python Full-Stack Developer | UI/UX Designer | Expertise in Angular, Django, Flask, SQL, and MongoDB | Hands-on Experience in Building Scalable Web Applications</h3>
 
 
 
 - 🚀 Passionate about developing scalable and impactful web applications.
+  
 - 🎯 Currently working on **Job Portal, E-Commerce, Event Management & Online Learning Platform**.
+  
 - 📫 How to reach me: **akshayp9396@gmail.com**
+  
 - 🌐 Portfolio: [Personal Portfolio](https://akshayp9396.github.io/Personal-Portfolio/)
-- 🎨 Behance: [Behance Profile](https://www.behance.net/akshayp24)
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akshay-p5559/)
-- 📂 GitHub: [GitHub Profile](https://github.com/Akshayp9396)
-- ⚡ Fun fact: **"Transforming ideas into seamless digital experiences!"**
+  
+- ⚡ Fun fact: "I turn caffeine into clean code!" ☕💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
