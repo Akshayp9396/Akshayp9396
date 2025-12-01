@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay P</h1>
-<h3 align="center">Python Full-Stack Developer | UI/UX Designer | Expertise in Angular, Django, Flask, SQL, and MongoDB | Hands-on Experience in Building Scalable Web Applications</h3>
+<h3 align="center">Full-Stack Developer | UI/UX Designer | Expertise in Angular, Django, Flask, SQL, and MongoDB | Hands-on Experience in Building Scalable Web Applications</h3>
 
 
 
