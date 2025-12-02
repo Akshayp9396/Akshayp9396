@@ -2,17 +2,23 @@
 <h3 align="center">Full-Stack Developer | Expertise in Angular, React JS, Django, Javascript, Flask, SQL | UI/UX Designer | Experienced in developing full-stack applications, AI-integrated chatbots, scalable REST APIs, and modern responsive front-end interfaces.</h3>
 
 
-- 🚀 Passionate about developing scalable and impactful web applications.
-  
-- 🎯 **Currently working on a Job Portal using Django and Angular.**
+- 🤖 Developed an advanced **AI-powered conversational chatbot UI** using Angular with voice-to-text, file uploads, and real-time interactions, improving user engagement by 35%.
+
+- 🧠 Worked on **ML-based Heart Failure Prediction System** using KNN, Scikit-learn, and Flask, integrated with a PyTorch-based chatbot for real-time health guidance.
+
+- 💼 Currently contributing to a **WiFi Captive Management System**—migrating legacy PHP modules to **ReactJS** for improved scalability and performance.
+
+- 🏗️ Built multiple **full-stack applications** including a Job Portal (Django + Angular + MySQL), To-Do App, e-commerce interface, and student management system with secure authentication and role-based access.
+
+- 🎯 Always exploring new technologies and improving system performance, developer productivity, and the overall user experience.
   
 - 📫 How to reach me: **akshayp9396@gmail.com**
 
 - 💬 Ask me about Django, Angular 🚀
   
-- 🌐 Portfolio: [Personal Portfolio](https://akshayp9396.github.io/Personal-Portfolio/)
+- 🌐 Portfolio: [Personal Portfolio](https://akshayp9396.github.io/Akshay-P---Personal-portfolio/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t1yzA0H5DY3qt1qQr8HW0U4sE2GzW8_x/view]
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1SvrYt3H1-LK5ONtMNrd4hWbcGwPek0ZC?usp=sharing]
   
 - ⚡ Fun fact: "I turn caffeine into clean code!" ☕💻
 
