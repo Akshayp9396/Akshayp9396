@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay P</h1>
-<h3 align="center">Full-Stack Developer | UI/UX Designer | Expertise in Angular, Django, Flask, SQL, and MongoDB | Hands-on Experience in Building Scalable Web Applications</h3>
-
+<h3 align="center">Full-Stack Developer | Expertise in Angular, React JS, Django, Javascript, Flask, SQL | UI/UX Designer | Experienced in developing full-stack applications, AI-integrated chatbots, scalable REST APIs, and modern responsive front-end interfaces.</h3>
 
 
 - 🚀 Passionate about developing scalable and impactful web applications.
