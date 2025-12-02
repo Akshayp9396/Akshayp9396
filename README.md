@@ -2,15 +2,16 @@
 <h3 align="center">Full-Stack Developer | Expertise in Angular, React JS, Django, Javascript, Flask, SQL | UI/UX Designer | Experienced in developing full-stack applications, AI-integrated chatbots, scalable REST APIs, and modern responsive front-end interfaces.</h3>
 
 
-- 🤖 Developed an advanced **AI-powered conversational chatbot UI** using Angular with voice-to-text, file uploads, and real-time interactions, improving user engagement by 35%.
+- 🤖 Built an AI-powered chatbot UI in Angular with voice-to-text, file uploads, and real-time interactions.
 
-- 🧠 Worked on **ML-based Heart Failure Prediction System** using KNN, Scikit-learn, and Flask, integrated with a PyTorch-based chatbot for real-time health guidance.
+- 🧠 Developed an ML-based Heart Failure Prediction System using KNN, Flask, and a PyTorch chatbot.
 
-- 💼 Currently contributing to a **WiFi Captive Management System**—migrating legacy PHP modules to **ReactJS** for improved scalability and performance.
+- 💼 Working on a WiFi Captive Management System, migrating legacy PHP modules to ReactJS.
 
-- 🏗️ Built multiple **full-stack applications** including a Job Portal (Django + Angular + MySQL), To-Do App, e-commerce interface, and student management system with secure authentication and role-based access.
+- 🏗️ Created multiple full-stack apps including a Job Portal, To-Do App, e-commerce UI, and student management system.
 
-- 🎯 Always exploring new technologies and improving system performance, developer productivity, and the overall user experience.
+- 🎯 Continuously exploring new technologies and improving performance, scalability, and user experience.
+
   
 - 📫 How to reach me: **akshayp9396@gmail.com**
 
