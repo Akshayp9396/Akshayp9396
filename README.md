@@ -36,7 +36,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="django" width="80"/>
 
-<img src="https://github.com/valohai/flask/blob/master/artwork/logo-full.png?raw=true" alt="flask" width="60"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png" alt="flask" width="60"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 
