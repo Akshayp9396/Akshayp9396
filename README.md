@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay P</h1>
 <h3 align="center">Full-Stack Developer | Expertise in Angular, ReactJS, Django, Javascript, Flask, SQL | UI/UX Designer | Experienced in developing full-stack applications, AI-integrated chatbots, scalable REST APIs, and modern responsive front-end interfaces.</h3>
 
-
+ 
 - 🤖 Built an AI-powered chatbot UI in Angular with voice-to-text, file uploads, and real-time interactions.
 
 - 🧠 Developed an ML-based Heart Failure Prediction System using KNN, Flask, and a PyTorch chatbot.
